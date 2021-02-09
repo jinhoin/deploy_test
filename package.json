@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "nodemon ./src/server.js",
     "prod": "node ./src/server.js",
-    "start": "pm2 start ./src/server.js",
-    "test": ""
+    "start": "pm2 start ./src/server.js"
   },
   "author": "jeffchoi",
   "license": "MIT",
